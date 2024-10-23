@@ -1,1 +1,0 @@
-# responsive-rock-paper-scissor-game
